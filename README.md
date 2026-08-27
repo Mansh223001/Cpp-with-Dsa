@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
