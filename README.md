@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/Mansh223001/Cpp-with-Dsa/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
